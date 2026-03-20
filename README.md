@@ -1,6 +1,6 @@
-# 🎮 Dominate — Ataxx Strategy Game
+# 🎮 Tiles Strategy Game
 
-A responsive, browser-based clone of the 1990s strategy game **Dominate** (Ataxx-style) built with **Vue 3** (Composition API) and **Tailwind CSS**.
+A responsive, browser-based tiles strategy game inspired by the 1990s game Dominate (Ataxx-style). Built with Vue 3 and Tailwind CSS.
 
 ![Game screenshot](https://github.com/user-attachments/assets/37ceae7a-df0e-4f4a-863a-c00903119eee)
 
